@@ -1,0 +1,33 @@
+Benchmark ready to start, today is 2016|10|2016 and the time is 9|25|44
+Host is up!
+Host is now ready!
+Hashes generated, ready to peform connections:
+('127.0.0.1', 50552) connected at 9|25|44 and received the block 0
+('127.0.0.1', 50553) connected at 9|25|44 and received the block 1
+('127.0.0.1', 50556) connected at 9|26|27 and delivered the block 1
+('127.0.0.1', 50558) connected at 9|26|27 and received the block 2
+('127.0.0.1', 50560) connected at 9|26|27 and delivered the block 0
+('127.0.0.1', 50562) connected at 9|26|27 and received the block 3
+('127.0.0.1', 50564) connected at 9|27|9 and delivered the block 2
+('127.0.0.1', 50566) connected at 9|27|9 and delivered the block 3
+('127.0.0.1', 50568) connected at 9|27|9 and received the block 4
+('127.0.0.1', 50570) connected at 9|27|9 and received the block 5
+('127.0.0.1', 50572) connected at 9|27|52 and delivered the block 5
+('127.0.0.1', 50574) connected at 9|27|52 and received the block 6
+('127.0.0.1', 50576) connected at 9|27|52 and delivered the block 4
+('127.0.0.1', 50578) connected at 9|27|52 and received the block 7
+('127.0.0.1', 50580) connected at 9|28|34 and delivered the block 7
+('127.0.0.1', 50582) connected at 9|28|34 and received the block 8
+('127.0.0.1', 50584) connected at 9|28|34 and delivered the block 6
+('127.0.0.1', 50586) connected at 9|28|34 and received the block 9
+('127.0.0.1', 50588) connected at 9|29|16 and delivered the block 8
+('127.0.0.1', 50590) connected at 9|29|16 and received the block 10
+('127.0.0.1', 50592) connected at 9|29|17 and delivered the block 9
+('127.0.0.1', 50594) connected at 9|29|17 and received the block 11
+('127.0.0.1', 50596) connected at 9|29|59 and delivered the block 11
+('127.0.0.1', 50600) connected at 9|29|59 and delivered the block 10
+120 Hashes have been broken by use of bruteforce
+Those were the servants that took part in the process:
+{'127.0.0.1'}
+A total of 1 servants
+it took 255.306564 seconds to process it all
